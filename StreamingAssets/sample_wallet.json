@@ -1,0 +1,9 @@
+{
+  "userId": 12345,
+  "spendableBalance": 150.00,
+  "earningsBalance": 50.00,
+  "lockedPayoutAmount": 0.00,
+  "availableEarnings": 50.00,
+  "currency": "USD",
+  "peaksPerDollar": 100.00
+}
