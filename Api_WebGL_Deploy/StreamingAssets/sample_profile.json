@@ -1,0 +1,13 @@
+{
+  "id": 12345,
+  "username": "player_one",
+  "firstName": "Alex",
+  "lastName": "Smith",
+  "status": "ACTIVE",
+  "profilePicUrl": "https://cdn.example.com/profile.jpg",
+  "roleId": 2,
+  "gender": {
+    "id": 1,
+    "name": "Male"
+  }
+}
